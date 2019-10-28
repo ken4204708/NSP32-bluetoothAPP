@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e18be7aa5ded387f3cd56604945f54f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\46a0f25c888785f9f8da218b14d84505\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\d17ce9befa4438a3746f911cfec8f1f8\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\9c0c1384046f1ba23de4c9f2e56a6087\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b322fbebe9116ca848e55d5d001e833d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\73827bd58e8aed4cbe4c28f2d4884d45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\064ae33448a8d0e2cd254ac23b12d919\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ee90616f3964106bae34800bfb6e7df8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3da8e2b7bccc42db704970b77690ca00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\999043b0e83f786ec24ab6ec1b5d43f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\660d55791dfee33b6a668dd3120c4125\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\afc4391e9306709191ffc64103b0247c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\920c6289a5cf0a5fc72aded96d1782e4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b5bf1f24561fd3606dc5831610f96668\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2998aecb2d38b1c2a28ccdcefd9787c1\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\46a0f25c888785f9f8da218b14d84505\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\46a0f25c888785f9f8da218b14d84505\AndroidManifest.xml:9:5-20
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\d17ce9befa4438a3746f911cfec8f1f8\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\d17ce9befa4438a3746f911cfec8f1f8\AndroidManifest.xml:11:5-12:19
+	android:supportsRtl
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.ken.nsp32_app.MainActivity
+ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.ken.nsp32_app.DeviceListActivity
+ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:20:9-23:66
+	android:label
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:21:13-50
+	android:configChanges
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:23:13-63
+	android:theme
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:20:19-53
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:25:5-74
+	android:name
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:25:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml:27:22-78
+uses-sdk
+INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e18be7aa5ded387f3cd56604945f54f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e18be7aa5ded387f3cd56604945f54f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\46a0f25c888785f9f8da218b14d84505\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\46a0f25c888785f9f8da218b14d84505\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\d17ce9befa4438a3746f911cfec8f1f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\d17ce9befa4438a3746f911cfec8f1f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\9c0c1384046f1ba23de4c9f2e56a6087\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\9c0c1384046f1ba23de4c9f2e56a6087\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b322fbebe9116ca848e55d5d001e833d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b322fbebe9116ca848e55d5d001e833d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\73827bd58e8aed4cbe4c28f2d4884d45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\73827bd58e8aed4cbe4c28f2d4884d45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\064ae33448a8d0e2cd254ac23b12d919\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\064ae33448a8d0e2cd254ac23b12d919\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ee90616f3964106bae34800bfb6e7df8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ee90616f3964106bae34800bfb6e7df8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3da8e2b7bccc42db704970b77690ca00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3da8e2b7bccc42db704970b77690ca00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\999043b0e83f786ec24ab6ec1b5d43f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\999043b0e83f786ec24ab6ec1b5d43f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\660d55791dfee33b6a668dd3120c4125\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\660d55791dfee33b6a668dd3120c4125\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\afc4391e9306709191ffc64103b0247c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\afc4391e9306709191ffc64103b0247c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\920c6289a5cf0a5fc72aded96d1782e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\920c6289a5cf0a5fc72aded96d1782e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b5bf1f24561fd3606dc5831610f96668\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b5bf1f24561fd3606dc5831610f96668\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2998aecb2d38b1c2a28ccdcefd9787c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\KEN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2998aecb2d38b1c2a28ccdcefd9787c1\AndroidManifest.xml:20:5-44
+INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+		ADDED from D:\NSP32_APP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\NSP32_APP\app\src\main\AndroidManifest.xml

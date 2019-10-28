@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <CheckBox
+        android:id="@+id/Flag_AE"
+        android:layout_width="115dp"
+        android:layout_height="30dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="28dp"
+        android:text="AE"
+        app:layout_constraintBottom_toTopOf="@+id/T02"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/T01" />
+
+    <TextView
+        android:id="@+id/T01"
+        android:layout_width="150dp"
+        android:layout_height="28dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="36dp"
+        android:text="Frame Average"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toStartOf="@+id/edit_Avg"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/edit_Avg"
+        android:layout_width="73dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="64dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="10"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@+id/edit_SS"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/T01"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/T02"
+        android:layout_width="150dp"
+        android:layout_height="28dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="10dp"
+        android:text="Shuttle Speed"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toStartOf="@+id/edit_SS"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Flag_AE" />
+
+    <EditText
+        android:id="@+id/edit_SS"
+        android:layout_width="73dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="14dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="64dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="20"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@+id/G01"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/T02"
+        app:layout_constraintTop_toBottomOf="@+id/edit_Avg"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/B_acquire"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="19dp"
+        android:onClick="ClickAcquire"
+        android:text="Acquire"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/G01"
+        app:layout_constraintVertical_bias="0.452" />
+
+    <Button
+        android:id="@+id/B_pair"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="19dp"
+        android:onClick="ClickConnect"
+        android:text="Connect"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/G01"
+        app:layout_constraintVertical_bias="0.452" />
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/G01"
+        android:layout_width="300dp"
+        android:layout_height="197dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="184dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

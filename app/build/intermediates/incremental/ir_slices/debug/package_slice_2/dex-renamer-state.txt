@@ -1,0 +1,4 @@
+#Mon Jul 30 16:39:51 CST 2018
+base.0=D\:\\NSP32_APP\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22
+path.0=classes.dex
+renamed.0=classes.dex
